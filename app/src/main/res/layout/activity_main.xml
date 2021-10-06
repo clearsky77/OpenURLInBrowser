@@ -12,4 +12,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="URL을 새 브라우저에서 열기"/>
+
+    <Button
+        android:id="@+id/krDicUrlBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="국어사전"/>
+
+    <Button
+        android:id="@+id/enDicUrlBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="영어사전"/>
+
 </LinearLayout>
